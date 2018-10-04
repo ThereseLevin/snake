@@ -28,4 +28,9 @@ header {
 #canvas {
     width: $second-size;
     height: $second-size;
+    background-color: $primary-color;
+}
+
+main {
+    text-align: center;
 }

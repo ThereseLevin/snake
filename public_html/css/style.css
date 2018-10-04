@@ -29,4 +29,9 @@ header h2 {
 #canvas {
   width: 50%;
   height: 50%;
+  background-color: #9ED04D;
+}
+
+main {
+  text-align: center;
 }
