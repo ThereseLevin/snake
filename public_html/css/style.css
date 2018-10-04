@@ -25,3 +25,8 @@ header h2 {
   margin: auto;
   background-color: #6E6251;
 }
+
+#canvas {
+  width: 50%;
+  height: 50%;
+}
