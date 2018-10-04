@@ -2,11 +2,26 @@
 /* Colors */
 /* Fonts */
 /* Sizes */
+/* ------ MAIN ------ */
+body {
+  background-color: #45403C;
+}
+
 header h1 {
   font-family: "Quicksand", sans-serif;
   font-size: 4em;
+  text-align: center;
+  color: #D8703E;
 }
 header h2 {
   font-family: "Oswald", sans-serif;
   font-size: 1em;
+  text-align: center;
+  color: #383532;
+}
+
+.all {
+  width: 50%;
+  margin: auto;
+  background-color: #6E6251;
 }

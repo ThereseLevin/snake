@@ -1,10 +1,26 @@
+/* ------ MAIN ------ */
+
+body {
+    background-color: $quaternary-color;
+}
+
 header {
     h1 {
         font-family: $heading-main;
         font-size: $heading-main-size;
+        text-align: center;
+        color: $secondary-color;
     }
     h2 {
         font-family: $heading-second;
         font-size: $heading-second-size;
+        text-align: center;
+        color: $tertiary-color;
     }
+}
+
+.all {
+    width: 50%;
+    margin: auto;
+    background-color: $quinary-color;
 }
