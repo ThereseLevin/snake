@@ -1,3 +1,12 @@
 /* ------ VARIABLES ------ */
 /* Colors */
 /* Fonts */
+/* Sizes */
+header h1 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 4em;
+}
+header h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 1em;
+}
