@@ -15,4 +15,9 @@ window.onload = function() {
     //Ormens bredd = W / höjd = H i px
     var snakeW = 10;
     var snakeH = 10;
+
+    //Ormen i kvadrater, färg
+    ctx.fillstyle = "white";
+    //Skapar kvadraterna, x & y position + storlek
+    ctx.fillRect(50,50,snakeW,snakeH);
 }
